@@ -1,1 +1,3 @@
-Hello v2
+<?php
+echo "Tin goc";
+?>
